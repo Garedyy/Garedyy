@@ -8,6 +8,8 @@
   <li>CSS</li>
   <li>Javascript</li>
   <li>SQL</li>
+  <li>AI</li>
+  <li>UX & UI Design</li>
 </ul>
 <h1>Fun Facts ✨</h1>
 <ul>

@@ -7,7 +7,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
-  <li>React</li>
+  <li>ReactJS</li>
   <li>SQL</li>
   <li>AI</li>
   <li>UX & UI Design</li>

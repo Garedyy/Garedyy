@@ -3,8 +3,7 @@
 <p>When I'm not in school I'm working to increase my knowledge in IT.</p>
 <h1>What I'm doing 📦</h1>
 <ul>
-  <li>ReactJS</li>
-  <li>NodeJS</li>
+  <li>Next.JS</li>
   <li>Javascript</li>
   <li>Python</li>
   <li>HTML</li>
